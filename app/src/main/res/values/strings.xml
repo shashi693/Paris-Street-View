@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">France Panorama</string>
+
+    <string name="zoom_in">+</string>
+    <string name="zoom_out">-</string>
+    <string name="walk_panorama">Walk</string>
+
+    <string name="panorama_not_ready">Panorama is not ready yet</string>
+
+    <string name="left_arrow">\u2190</string>
+
+    <string name="right_arrow">\u2192</string>
+
+    <string name="up_arrow">\u2191</string>
+
+    <string name="down_arrow">\u2193</string>
+</resources>
